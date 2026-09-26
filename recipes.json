@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Creamy Garlic Chicken",
+    "ingredients": {
+      "chicken": "500 g",
+      "butter": "30 g",
+      "garlic": "6 cloves",
+      "cream": "200 ml",
+      "garam masala": "2 tsp",
+      "salt": "1 tsp",
+      "black pepper": "1/2 tsp"
+    },
+    "instructions": [
+      "Cut the chicken into medium-sized pieces.",
+      "Melt the butter in a pan.",
+      "Add the garlic and cook until fragrant.",
+      "Add the chicken and cook until fully cooked.",
+      "Add cream, garam masala, salt and black pepper.",
+      "Simmer for 5 minutes.",
+      "Serve hot."
+    ]
+  },
+  {
+    "name": "Mutton Pepper Fry",
+    "ingredients": {
+      "mutton": "750 g",
+      "oil": "3 tbsp",
+      "onion": "2 large",
+      "ginger garlic paste": "2 tbsp",
+      "black pepper": "2 tbsp",
+      "coriander powder": "1 tbsp",
+      "turmeric": "1/2 tsp",
+      "salt": "1 1/2 tsp"
+    },
+    "instructions": [
+      "Marinate the mutton with turmeric and salt.",
+      "Cook the mutton until tender.",
+      "Heat oil in a pan.",
+      "Add onions and cook until golden.",
+      "Add ginger garlic paste and cook for 2 minutes.",
+      "Add coriander powder and black pepper.",
+      "Add the cooked mutton.",
+      "Fry until the masala coats the mutton."
+    ]
+  },
+  {
+    "name": "Vegetable Pulao",
+    "ingredients": {
+      "basmati rice": "2 cups",
+      "water": "3 cups",
+      "carrot": "1 medium",
+      "beans": "1/2 cup",
+      "peas": "1/2 cup",
+      "onion": "1 large",
+      "ghee": "2 tbsp",
+      "cumin": "1 tsp",
+      "salt": "1 1/2 tsp"
+    },
+    "instructions": [
+      "Wash and soak the rice for 20 minutes.",
+      "Heat ghee in a pot.",
+      "Add cumin and sliced onion.",
+      "Cook until the onion becomes lightly golden.",
+      "Add carrot, beans and peas.",
+      "Add the drained rice.",
+      "Add water and salt.",
+      "Cover and cook until the rice is completely cooked."
+    ]
+  },
+  {
+    "name": "Chocolate Banana Cake",
+    "ingredients": {
+      "flour": "200 g",
+      "cocoa powder": "30 g",
+      "ripe bananas": "2",
+      "sugar": "120 g",
+      "butter": "100 g",
+      "eggs": "2",
+      "milk": "100 ml",
+      "baking powder": "1 tsp",
+      "vanilla extract": "1 tsp"
+    },
+    "instructions": [
+      "Mash the bananas in a bowl.",
+      "Cream the butter and sugar together.",
+      "Add the eggs and vanilla extract.",
+      "Add the mashed bananas.",
+      "Mix in the flour, cocoa powder and baking powder.",
+      "Add the milk and mix until combined.",
+      "Pour the batter into a cake tin.",
+      "Bake until the cake is cooked through."
+    ]
+  }
+]
